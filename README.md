@@ -1,6 +1,7 @@
 # def_py_emailClient
 
-Pequeño cliente de correo programado en Python usando la librería grafica de Tkinter
+Pequeño cliente de correo programado en Python usando la librería grafica de Tkinter.
+
 Falta el archivo de claves de Google API, para poder funcionar solo da de alta el servicio
 
 -- Día 1 --
