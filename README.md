@@ -7,3 +7,7 @@ Falta el archivo de claves de Google API, para poder funcionar, debes da de alta
 -- Día 1 --
   - Establecidos los anchos y largos del programa, así como los margenes de las dimensiones de las columnas
   - Creación de la columna de información del usuario que muestra el correo del usuario asi como las bandejas con los respectivos correos no leídos
+
+-- Día 2 --
+  - Montaje del segundo modulo, mostrando los emails selecionados del modulo 1
+  
