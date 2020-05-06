@@ -11,3 +11,8 @@ Falta el archivo de claves de Google API, para poder funcionar, debes da de alta
 -- Día 2 --
   - Montaje del segundo modulo, mostrando los emails selecionados del modulo 1
   
+-- Día 3 --
+  - Arreglo de colores de los módulos 1 y 2
+  - Creación del módulo mensaje , donde se optienen y se muestran los emails asi como los datos de cabezera
+  - Cambio de color y cierre del segundo módulo así como el reseteo del modulo 3 al cambiar de mensaje o bandeja de email
+  
